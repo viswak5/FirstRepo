@@ -3,3 +3,4 @@ Changes done in remote
 changes made by branch1
 
 Updated by branch 1
+Updated changes by branch2
